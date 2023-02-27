@@ -1,6 +1,5 @@
 # Analogical-Algorithms-Compendium
-  Analogical Thinking for Understanding and Decoding Complex Coding Concepts.
-           Enhancing Comprehension through Analogical Thinking
+  Analogical Thinking for Understanding and Decoding Complex Coding Concepts, enhancing Comprehension through Analogical Thinking
        
 Introducing a programming analogies handbook that offers insights into essential concepts for mastering coding.
 
